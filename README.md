@@ -1,3 +1,5 @@
+## Sorteio do Amigo Secreto
+
 Olá, bem-vindo(a) ao **Sorteio do Amigo Secreto!** Esse projeto foi um desafio desenvolvido exclusivamente para o programa **Oracle ONE - Turma G8**
 
 A aplicação permite que os usuários adicionem amigos e sorteiem um amigo secreto aleatoriamente.
