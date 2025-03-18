@@ -36,6 +36,7 @@ Este projeto foi desenvolvido como parte do programa **Oracle ONE - Turma G8**, 
 
 
  Desenvolvedora: Rafaela Almeida (Iniciante)
+ 
  Contato: fkngrafa20@gmail.com
  
 
