@@ -34,7 +34,9 @@ Este projeto foi desenvolvido como parte do programa **Oracle ONE - Turma G8**, 
 - [**Git e GitHub: compartilhando e colaborando em projetos**](https://www.alura.com.br/curso-online-git-github-compartilhando-colaborando-projetos)
 
 
+
  Desenvolvedora: Rafaela Almeida (Iniciante)
  Contato: fkngrafa20@gmail.com
+ 
 
 Gostou do projeto? Contribua, sugira melhorias e compartilhe com seus amigos!
